@@ -1,0 +1,11 @@
+A Coding Poem by John Gorman
+
+Variables
+X
+Y
+Z
+Loops
+If
+Else
+
+The End
