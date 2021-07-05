@@ -1,17 +1,20 @@
-A Coding (and football) Poem by John Gorman
+A Coding (and football and dogs) Poem by John Gorman
 
 Variables
 nutmeg
+terrier
 X
 Y
 Z
 Loops
 volley
+poodle
 If
 Else
 For
 while
 Constructor
 hattrick
+alsatian
 
 The End
