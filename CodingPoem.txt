@@ -1,13 +1,16 @@
-A Coding Poem by John Gorman
+A Coding (and football) Poem by John Gorman
 
 Variables
+nutmeg
 X
 Y
 Z
 Loops
+volley
 If
 Else
 For
 Constructor
+hattrick
 
 The End
